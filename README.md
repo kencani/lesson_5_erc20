@@ -6,7 +6,7 @@
 
 测试用例：
 
-![image](shortcut/create_claim_should_works.png)
+![image](1.png)
 
 
 
